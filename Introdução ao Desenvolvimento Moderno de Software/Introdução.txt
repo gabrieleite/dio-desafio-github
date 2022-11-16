@@ -1,0 +1,13 @@
+- Ao iniciar o desenvolvimento de um software, o primeiro passo é definir as plataformas onde este software será executado. 
+
+- Sistemas Desktop: 
+
+  * São sistemas autônomos que podem ser instalados no computador. Esta instalação normalmente é realizada por um arquivo executável. Como exemplo, temos o Microsoft Word, Excel, Antivírus e jogos. 
+
+- Sistemas WEB: 
+
+  * Baseados em tecnologia web, podendo ser utilizados remotamente através de qualquer navegador de internet, sem a necessidade de instalação e atualização local.  
+
+- E as aplicações móveis? 
+
+  * Uma aplicação móvel ou aplicativo mobile é um software desenvolvido para ser instalado em smartphones e/ou tablets. É baixado de uma loja on-line, como Google Play ou App Store, direto para o seu dispositivo portátil. 
