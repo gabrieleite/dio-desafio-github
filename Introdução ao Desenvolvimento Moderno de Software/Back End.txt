@@ -1,0 +1,7 @@
+- Back End, como o próprio nome sugere, vem da ideia do que tem por trás de uma aplicação.  
+
+- O Back End trabalha em boa parte dos casos fazendo a ponte entre os dados que vem do navegador rumo ao banco de dados e vice-versa, sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e possa manipular algo. Exemplo: JAVA, PHP e C#.  
+
+- O que é uma API? 
+
+  * Acrônimo de Application Programming Interface (interface de programação de aplicativos), um intermediário de software que permite que dois aplicativos conversem entre si. 
