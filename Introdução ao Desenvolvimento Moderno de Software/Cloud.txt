@@ -1,0 +1,19 @@
+- Nuvem Pública 
+
+  * Os sistemas em nuvem são sistemas de armazenamento de dados disponibilizados via internet, em vez de servidores físicos tradicionais. Hoje, muitas organizações estão migrando o armazenamento de dados de servidores físicos para sistemas baseados em nuvem. 
+
+- Vantagens de migrar para a nuvem pública> 
+
+  * Preço (pague somente o que usar). 
+
+  * Facilidade de contratação, configuração e infraestrutura.  
+
+  * Escalabilidade.  
+
+  * Performance.  
+
+- Profissional de Cloud Computing: 
+
+  * É responsável pela infraestrutura de nuvem oferecida aos clientes.  
+
+  * Mais do que desenhar sistemas ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas e, no fim, cuida do que foi construído.  

@@ -1,0 +1,11 @@
+- Desenvolvimento Mobile: Android 
+
+  * JAVA e/ou KOTLIN.  
+
+- Desenvolvimento Mobile: IOS 
+
+  * SWIFT. 
+
+- Desenvolvimento Híbrido: WEB 
+
+  * Ionic, Flutter e React Native. 
