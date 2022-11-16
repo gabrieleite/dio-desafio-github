@@ -1,1 +1,25 @@
 Anotações do curso para preparação ao uso do Github
+
+-> git clone - clonando um repositório existente
+- É utilizado para clonar um repositório. 
+Ex.: git clone [link do projeto]
+
+-> git status - verificando o status
+- Utilizado para determinar quais arquivos estão em quais estados. 
+Ex.: git status
+
+-> git add - gravando alterações
+- Você adiciona alterações no repositório
+Ex.: git add . (grava todos os arquivos pendentes), git add [nome do arquivo] (grava o arquivo com o nome específico)
+
+-> git commit - commit 
+- Armazena o conteúdo em um novo commit, junto com uma mensagem que descreve as mudanças
+Ex.: git commit -m "Mensagem"
+
+-> git push - empurrando seus commits
+- É usado para tranferir commits para o repositório remoto. Assim que executado, todas alterações estarão disponíveis no repositório. 
+Ex.: git push origin main 
+
+-> git pull - atualizando local
+- Serve para buscar alterações do repositório remoto para o local. 
+Ex.: git pull origin main
