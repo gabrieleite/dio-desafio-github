@@ -1,0 +1,9 @@
+- Modelo Cliente-Servidor: 
+
+  * O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.  
+
+- O desenvolvedor front End é que o programa a parte visual de um site ou aplicativo, ou seja, aquilo que conseguimos interagir. Quem trabalha com Front End é responsável por desenvolver por meio de código uma interface gráfica, normalmente com tecnologias base da Web (HTML, CSS e JavaScript).  
+
+- Onde que eu crio os códigos?  
+
+  * Em uma IDE, um ambiente de desenvolvimento integrado é um software para criar aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI).  
