@@ -1,0 +1,9 @@
+- O design da experiência do usuário (ou UX design) é o processo que visa melhorar a satisfação do usuário com um produto ou serviço, melhorando a usabilidade, a acessibilidade e até mesmo a satisfação proporcionada na interação. 
+
+- Pesquisa, Protótipos, Personas e Objetivos.  
+
+- O designer de interface do usuário (UI Designer) é o profissional responsável em criar o que o usuário irá ver e utilizar o produto. Este profissional entende padrões visuais que podem ajudar o usuário na experiência de utilização do software. Profissional focado em cores, tipografia, micro interações e estilos. 
+
+- UI designer promove a criação e o desenvolvimento da interface explorada pelo usuário em um produto ou serviço. 
+
+- Design, Tipografia, Cores e Layouts.  
