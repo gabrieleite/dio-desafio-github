@@ -1,0 +1,7 @@
+- Framework é, de forma básica, um facilitador.  
+
+- Ele traz diversas soluções já pré-definidas, que descomplicam o trabalho dos profissionais no desenvolvimento de aplicativos e outros projetos digitais. 
+
+- Afinal, a atuação de um programador pode ter muito de criatividade, mas também traz aspectos mecânicos, de repetição de tarefas, que seriam maçantes sem a possibilidade e automatização.  
+
+- Exemplos: Angular, Laravel e Vue.  
